@@ -1,0 +1,14 @@
+{
+  "name": "component_encapsulation_and_best_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "generate": "marp ./README.md -o ./dist/README.pdf"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.2.0"
+  }
+}
